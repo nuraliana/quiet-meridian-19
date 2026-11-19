@@ -1,8 +1,8 @@
 # Thursday 19 November 2026 — 50 stories, 7 regions, one page
 
-![make.fun badge](https://make.fun/badge/news-image-20261119.svg)
-![rank](https://make.fun/badge/news-image-20261119/nuraliana/quiet-meridian-19/rank.svg)
-![reward](https://make.fun/badge/news-image-20261119/nuraliana/quiet-meridian-19/reward.svg)
+[![make.fun badge](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/nuraliana/quiet-meridian-19/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/nuraliana/quiet-meridian-19/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 One 1024x1024 front page drawn from the day's reporting: the first
 Trump–Xi–Putin trilateral in Shenzhen, GTA VI's worldwide rollout with a
